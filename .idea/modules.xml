@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-duyi-demo/redis-duyi-demo.iml" filepath="$PROJECT_DIR$/redis-duyi-demo/redis-duyi-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-duing-01-helloworld/spring-boot-duing-01-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-duing-01-helloworld/spring-boot-duing-01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-duing-03-thymeleaf-crud/spring-boot-duing-03-thymeleaf-crud.iml" filepath="$PROJECT_DIR$/spring-boot-duing-03-thymeleaf-crud/spring-boot-duing-03-thymeleaf-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-duing-03-web-restful/spring-boot-duing-03-web-restful.iml" filepath="$PROJECT_DIR$/spring-boot-duing-03-web-restful/spring-boot-duing-03-web-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-duing-04-orm-jpa/spring-boot-duing-04-orm-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-duing-04-orm-jpa/spring-boot-duing-04-orm-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-duing-demo.iml" filepath="$PROJECT_DIR$/spring-boot-duing-demo.iml" />
+    </modules>
+  </component>
+</project>

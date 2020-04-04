@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http:www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>修改嘉宾</title>
+    <link rel="stylesheet" href="bootstrap.css" th:href="@{/bootstrap.css}">
+</head >
+<body class="container">
+<h3>修改嘉宾</h3>
+<br>
+<form th:action="@{/guest/update}" method="post" >
+
+    <label>姓名：</label>
+    <input type="text" id="name" name="name" th:value="${guest.name}" readonly>
+    <label>角色：</label>
+    <input type="text" name="role" th:value="${guest.role}">
+    <input type="submit" value="提交">
+
+</form>
+
+
+
+
+</body>
+</html>

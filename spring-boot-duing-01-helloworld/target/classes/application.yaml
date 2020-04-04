@@ -1,0 +1,17 @@
+server:
+  port: 8091
+
+
+food:
+  meat: 牛排
+  rice: 面包
+  sauce: 黑椒
+
+
+jasypt:
+  encryptor:
+    password: 123456!@#
+
+info:
+  username: ENC(zn4B8doTe5riS7Xl2oE9cQ==)
+  password: ENC(xcScV385ToIAi7DJ+781sA==)
